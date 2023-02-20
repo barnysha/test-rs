@@ -1,3 +1,5 @@
+
+===
 ---
 # Svetlana Shlekht
 
@@ -54,4 +56,13 @@ console.log('Min element: ' + minValue)
 ```
 ===
 
+## Courses:
 
+
+===
+
+
+## Languages:
+
+
+===
