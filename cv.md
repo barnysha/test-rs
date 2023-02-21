@@ -45,15 +45,12 @@ console.log('Min element: ' + minValue)
 
 
 ## Courses:
-*HTML and CSS course at school CANSHECODE(completed)
-*web design and development on a retraining course at the RCSI (completed)
-*JavaScript Course: Learning JS for Beginners(completed)
+* HTML and CSS course at school CANSHECODE(completed)
+* web design and development on a retraining course at the RCSI (completed)
+* JavaScript Course: Learning JS for Beginners(completed)
 
 
 ## Languages:
-*Russian - Native
-*English - Intermediate (according to the online test at EFset Logo www.efset.org)
-![english-sert](C:\Users\Shleht\Desktop\Светам\прог\Обучение RSSchool\rsschool-cv)
-*Deutsch - Basic
-
-
+* Russian - Native
+* English - Intermediate (according to the online test at EFset Logo www.efset.org)
+* Deutsch - Basic
