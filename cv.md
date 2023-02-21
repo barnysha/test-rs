@@ -1,12 +1,12 @@
 new cv
-===
----
+
+
 # Svetlana Shlekht
 
----
+
 ## Junior Frontend Developer
 
-===
+
 
 
 ## Contact information:
@@ -15,14 +15,14 @@ Phone: +7 905 456 0184
 E-mail: barny.2504@gmail.com  
 Telegram: @svetlanashlekht
 
-===
+
 
 
 ## Briefly About Myself:
 
 
 
-===
+
 
 
 ## Skills and Proficiency:
@@ -32,7 +32,7 @@ Telegram: @svetlanashlekht
 * Git, GitHub
 * VS Code, IntelliJ IDEA
 
-===
+
 
 ## Code example:
 
@@ -54,15 +54,15 @@ for (let j = currentIndex + 1; j <= usersByDay.length - 1; j++) {
 console.log('Min element: ' + minValue)
 
 ```
-===
+
 
 ## Courses:
 
 
-===
+
 
 
 ## Languages:
 
 
-===
+
