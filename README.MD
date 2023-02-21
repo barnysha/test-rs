@@ -1,1 +1,1 @@
-https://barnysha.github.io/rsschool-cv/cv
+https://github.com/barnysha/rsschool-cv/blob/gh-pages/cv.md
