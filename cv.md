@@ -18,7 +18,7 @@ I am diligent and like to learn, but I need a mentor to guide me and tell me how
 * HTML5, CSS3
 * JavaScript Basics
 * Git, GitHub
-* VS Code, IntelliJ IDEA
+* VS Code, Sublime
 * FIGMA
 
 
